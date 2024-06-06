@@ -1,0 +1,6 @@
+@article{niu2024hybridvc,
+  title={HybridVC: Efficient Voice Style Conversion with Text and Audio Prompts},
+  author={Niu, Xinlei and Zhang, Jing and Martin, Charles Patrick},
+  journal={arXiv preprint arXiv:2404.15637},
+  year={2024}
+}
